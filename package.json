@@ -1,0 +1,14 @@
+{
+  "name": "image-viewer",
+  "version": "1.0.0",
+  "description": "image view web server.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "xueping.yang@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "2.3.0"
+  }
+}
